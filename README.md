@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=develifas&langs_count=4&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=develifas)](https://github.com/anuraghazra/github-readme-stats) -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=develifas)](https://github.com/anuraghazra/github-readme-stats) 
 
 ----------------------------------------------------------------------------------
