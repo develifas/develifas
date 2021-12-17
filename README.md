@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <br />
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USER)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/elifasjhenp)
+<br />
+[![wakatime](https://wakatime.com/badge/user/2a434920-819f-4ed7-a047-9ccc116dbfb7.svg)](https://wakatime.com/@2a434920-819f-4ed7-a047-9ccc116dbfb7)
 <br /><br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=develifas&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=white)
 <br />
